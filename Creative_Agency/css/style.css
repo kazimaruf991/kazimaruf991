@@ -1,0 +1,149 @@
+/*======================================
+            Common CSS
+======================================*/
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background: #f7e52f;
+}
+
+.container{
+    max-width: 960px;
+    width: 98%;
+    margin: 0 auto;
+}
+
+/*======================================
+            Navigation Area CSS
+======================================*/
+
+#nvaigation{
+    background: #0a0a0a;
+}
+
+.inner_nav_area{
+    width: 98%;
+    clear: both;
+    overflow: hidden;
+    padding: 0.5% 0;
+}
+
+.inner_nav_area .logo_area{
+    width: 15%;
+    text-align: center;
+    float: left;
+}
+
+.inner_nav_area .logo_area img{
+    width: 120px;
+}
+
+.inner_nav_area .nav_menu{
+    width: 78%;
+    float: left;
+}
+
+.inner_nav_area .nav_menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    width: 100%;
+}
+
+.inner_nav_area .nav_menu ul li{
+    display: inline-block;
+    margin: 20px;
+}
+
+.inner_nav_area .nav_menu ul li a{
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.inner_nav_area .nav_menu ul li a:hover{
+    color: #f8e530;
+}
+
+.inner_nav_area .icon_area{
+    width: 5%;
+    float: left;
+    
+}
+
+.inner_nav_area .icon_area img{
+    margin-top: 30%;
+    width: 70%;
+}
+
+/*======================================
+            Navigation Area CSS
+======================================*/
+
+.inner_main_banner_area{
+    width: 98%;
+    padding: 2%;
+    clear: both;
+    overflow: hidden;
+    position: relative;
+}
+
+.bx-wrapper {
+    -moz-box-shadow: 0 0 5px #f7e52f;
+    -webkit-box-shadow: 0 0 5px #f7e52f;
+    box-shadow: 0 0 5px #f7e52f;
+    border: 5px solid #f7e52f;
+    background: url(/img/world_map.png);
+}
+
+.inner_main_banner_area .text_area{
+    width: 40%;
+    float: right;
+    position: absolute;
+    top: 0%;
+    right: 7%;
+    text-align: center;
+}
+
+.inner_main_banner_area .text_area h1{
+    color: #080808;
+    font-size: 80px;
+    font-weight: 900;
+    line-height: 60px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.inner_main_banner_area .text_area p{
+   color: #080808;
+   font-size: 16px;
+   font-weight: 400;
+   text-align: center;
+   text-transform: uppercase;
+}
+
+.inner_main_banner_area .text_area button{
+    color: #fff;
+    background: #000;
+    font-weight: 900;
+    font-size: 19px;
+    padding: 2% 4%;
+    border-radius: 8px;
+    transform: skew(15deg);
+    text-transform: uppercase;
+}
+
+
+.inner_main_banner_area .text_area button > span{
+    display: inline-block;
+    transform: skew(-15deg);
+}
+
+.inner_main_banner_area .text_area button:hover{
+    background: #0a47ee;
+}
