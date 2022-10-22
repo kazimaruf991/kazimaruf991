@@ -1,7 +1,11 @@
 - 👋 Hi, I’m Kazi Md. Maruf Husain
+
 - 👀 I’m interested in developing software for computer, smartphone & developing website. Check out the below software list that I have developed till now.
+
 - 🌱 I’m currently learning Web Developnent.
+
 - 📫 How to reach me: 
+
     - Email : kazimaruf.lds@gmail.com
     - Facebook : facebook.com/speakboy
 
@@ -32,3 +36,5 @@ SL|Software Name|Category|Language|OS|Term Of Use|Summary of Features
 16| Auto Patcher | Reverse Engineering | Java | Android | Public (free) | Automatically patches the android service.jar & framwork.jar & creates flashable that can be flashed via custom recovery to allow External SD Card write permission in android version 6.0 & 7.0. [Check my thread in XDA](https://forum.xda-developers.com/t/guide-app-6-x-x-7-x-x-allow-sdcard-write-access-switch-sdcard-path.3593021/)
 17| KMFly Dex Patcher | Reverse Engineering | Java | Android | Personal | Patches smali code into .dex file of APK apllication.
 18| KMFlyTweakers, AppLogger, REThemer, AIDE-Fix etc. | Xposed Module | Java | Android | Personal | Various Xposed module for my personal use.
+
+**Thanks for reading.**
