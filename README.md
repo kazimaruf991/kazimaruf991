@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Kazi Md. Maruf Husain
 
-- 👀 I’m interested in developing software for computer, smartphone & developing website. Check out the below software list that I have developed so far.
-
-- 🌱 I’m currently learning Web Developnent.
+- 👀 I’m interested in developing software for computer, smartphone & developing website. Check out the below projects list that I have developed so far.
 
 - 📫 How to reach me: 
 
