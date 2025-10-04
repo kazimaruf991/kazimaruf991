@@ -28,7 +28,7 @@ SL|Software Name|Category|Language|OS|Term Of Use|Summary of Features
 11| Revise Assistant | Excel Automation / Excel Data Processing | Visual Basic | Windows | Commercial | Compares two Excel reports, marks differences, and notifies relevant personnel via email.
 12| DEFaultFinder | UI Automation | Visual Basic | Windows | Commercial | Monitors data from other software, detects incorrect inputs, and alerts users by marking the data fields.
 13| Money Expense Manager | Finance | Java | Android | Personal | Tracks daily/monthly earnings and expenses. Includes biometric and password protection to prevent unauthorized access.
-14| Git Notifier | Internet | Java | Android | Personal | A lightweight automation tool that monitors Git repositories and instantly alerts users to new commits, changes, or activity—streamlining version tracking and keeping teams in sync.
+14| Git Notifier | Internet | Java | Android | Public | A lightweight automation tool that monitors Git repositories and instantly alerts users to new commits, changes & releases.
 15| Inspectors Assistant | Utility | Java | Android | Commercial | A powerful app to assist with inspection processes. It can process Excel files, resize images, add text to images, and sort them based on given criteria.
 16| Slider | Utility | Java | Android | Personal | Runs in the background and executes various operations when the user swipes the edge of the screen (e.g., volume change, brightness adjustment).
 17| Recursive Crawler | Web Crawler | Java | Android | Personal | Crawls and downloads files from websites.
